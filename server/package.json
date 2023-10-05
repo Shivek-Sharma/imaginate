@@ -1,15 +1,15 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full Stack AI Image Generator",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index",
-    "start": "node index"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "shivek-sharma",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.41.0",
